@@ -6,6 +6,7 @@ public class arr {
 		
 		//dkjhfkjsdf
 		//dbfkdbnf
+		System.out.println("welcome");
 	
 		int j= sc.nextInt();
 		
