@@ -5,6 +5,8 @@ public class arr {
 		Scanner sc =  new Scanner(System.in);
 		
 		//dkjhfkjsdf
+		//dbfkdbnf
+	
 		int j= sc.nextInt();
 		
 		int[] arr = new int[j];
