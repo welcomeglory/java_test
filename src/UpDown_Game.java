@@ -6,6 +6,16 @@ public class UpDown_Game {
 		System.out.println(">>");
 		Scanner sc =  new Scanner(System.in);
 		int i = sc.nextInt();
+		while(true) {
+			if(i==1) {
+				System.out.println("숫자를 입력해주세요 : ");
+				
+				
+			}
+			else
+				break;
+			
+		}
 		
 		
 		
