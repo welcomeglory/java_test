@@ -7,7 +7,7 @@ public class arr {
 		System.out.println("welcome");
 	
 		int j= sc.nextInt();
-		
+		//gfcyhcfgyhcgh
 		int[] arr = new int[j];
 		int sum = 0;
 
