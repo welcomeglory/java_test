@@ -11,5 +11,8 @@ public class lotto {
 				}
 			}
 		}
+		for (int i = 0; i < lotto.length; i++) {
+			System.out.print(lotto[i]+" ");
+		}
 	}
 }
