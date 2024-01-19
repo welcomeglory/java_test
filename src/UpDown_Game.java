@@ -1,8 +1,8 @@
 import java.util.Scanner;
 public class UpDown_Game {
 	public static void main(String[] args) {
-		System.out.println("°ÔÀÓ½ÃÀÛ 1");
-		System.out.println("°ÔÀÓÁ¾·á 2");
+		System.out.println("ê²Œìž„ì‹œìž‘ 1");
+		System.out.println("ê²Œìž„ì¢…ë£Œ 2");
 		System.out.println(">>");
 		Scanner sc1 = new Scanner(System.in);
 		int i = sc1.nextInt();
